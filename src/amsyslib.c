@@ -67,7 +67,7 @@ static int FindWords(char line[], char *words[], int maxwords)
 /****************** options **********************************************/
 
 #define BANNER "Amanda V2.05\n\n"
-#define AMAINI "amanda.ini"
+#define AMAINI "/usr/lib/amanda.ini"
 
 #define optionsize 40
 #define maxoption   4
